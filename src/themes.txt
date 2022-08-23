@@ -1,3 +1,2 @@
 # Name            Fill     Stroke   Shadow   Handedness
 SQ-Mocu-Right  #111111  #f9f9f9  #000000  right
-SQ-Mocu-Left   #111111  #f9f9f9  #000000  left
