@@ -14,7 +14,7 @@ while read theme fill stroke shadow hand; do
 	rm --recursive --force "$cursorDir"
 	mkdir --parents "$tmpDir"
 	mkdir --parents "$cursorDir"
-	printf "[Icon Theme]\nName=${theme//-/ }\nComment=A modest cursor theme\n" > "$index"
+	printf "[Icon Theme]\nName=${theme//-/ }\nComment=Mocu cursors, but better \n" > "$index"
 
 	while read name; do
 		svg="$srcDir/svg/$name.svg"
