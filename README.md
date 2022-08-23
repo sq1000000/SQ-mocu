@@ -3,8 +3,6 @@ SQ-Mocu
 
 sq1000000's personal fork of mocu
 
-####To install:
-
 #### To install on Linux:
 
 	git clone https://github.com/sq1000000/sq-mocu
