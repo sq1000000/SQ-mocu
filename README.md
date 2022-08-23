@@ -9,6 +9,8 @@ sq1000000's personal fork of mocu
 	cd sq-mocu
 	./make.sh
 	cp dist/SQ-Mocu-Right -r /home/$USER/.icons/
+	cd ..
+	rm -rf sq-mocu
 
 Dependencies:
 
