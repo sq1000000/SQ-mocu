@@ -1,7 +1,7 @@
 SQ-Mocu
 ====
 
-sq1000000's personal fork of mocu
+sq1000000's fork of mocu
 
 #### To install on Linux:
 
